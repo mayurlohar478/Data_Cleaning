@@ -212,7 +212,7 @@ After completing this project, you will be able to:
 
 ## ▶️ How to Run
 
-### Clone 
+### Clone https://github.com/mayurlohar478/Data_Cleaning.git
 
 ```bash
 git clone https://github.com/yourusername/customer-data-cleaning.git
